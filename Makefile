@@ -1,5 +1,8 @@
 include $(THEOS)/makefiles/common.mk
 
+ARCHS = x86_64
+export TARGET = simulator:clang
+
 TWEAK_NAME = CCX
 CCX_FILES = Tweak.xm $(wildcard *.m)
 CCX_FRAMEWORKS = UIKit
