@@ -1,0 +1,10 @@
+Package: com.yourcompany.com.laughingquoll.ccx
+Name: com.laughingquoll.ccX
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: LaughingQuoll
+Author: LaughingQuoll
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 124

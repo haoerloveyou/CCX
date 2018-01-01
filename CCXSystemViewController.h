@@ -1,0 +1,2 @@
+@interface CCXSystemViewController : UIViewController
+@end
